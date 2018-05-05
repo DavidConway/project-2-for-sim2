@@ -1,0 +1,24 @@
+<object-stream>
+  <list>
+    <Player>
+      <playerName>test</playerName>
+      <token>t</token>
+    </Player>
+    <Player>
+      <playerName>test2</playerName>
+      <token>y</token>
+    </Player>
+    <Player>
+      <playerName>test3</playerName>
+      <token>j</token>
+    </Player>
+    <Player>
+      <playerName>david</playerName>
+      <token>d</token>
+    </Player>
+    <Player>
+      <playerName>m</playerName>
+      <token>m</token>
+    </Player>
+  </list>
+</object-stream>
